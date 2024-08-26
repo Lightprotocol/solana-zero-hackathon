@@ -35,14 +35,14 @@ After the judges complete individual evaluations, they will discuss and choose t
 | First Place                                     | up to $xxk |
 | Second Place                                    | $xk     |
 | Third Place                                     | $xk     |
-| All participants that submit a project that fulfils the eligibility criteria        | $xx                 |
+| All participants that submit a project that fulfills the eligibility criteria        | $xx                 |
 
 
 
 ### Legal Disclaimer
 
-ZK Compression Summer is a side track for the Radar Hackathon competition where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for purposes of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.
+ZK Compression Summer is a side track for the Radar Hackathon competition, where projects will be evaluated by judges on their technological merits without consideration of legal viability. Participants in the Hackathon will create software solely for the purpose of evaluation by judges as part of a competition and not for commercial deployment or release as part of the Hackathon.
 
-Light and Helius do not encourage, induce or sanction the use of any software application in violation of applicable laws and regulations by offering prizes to participants in the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
+Light and Helius do not encourage, induce, or sanction the use of any software application in violation of applicable laws and regulations by offering prizes to participants in the Hackathon. All participants must comply with applicable laws and regulations when releasing any software that they develop as part of the Hackathon.
 
 The Hackathon ideas and developer resources that Light and Helius provide are for educational and inspiration purposes only. Light and Helius do not encourage, induce or sanction the deployment of any such applications in violation of applicable laws or regulations.
