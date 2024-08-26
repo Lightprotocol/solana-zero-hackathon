@@ -8,7 +8,14 @@
 * Project registration form: Register [here](https://forms.gle/2H8m4Uzv4syY8U3X8).
 
 
-### Get Started building
+### Introduction
+
+ZK Compression reduces the cost of accounts and tokens on Solana by up to 1000x. Combining ZK Compression with Solana's core features gives hackers an open design space to create entirely new applications that could bring in the next wave of crypto users.
+
+As long as you have an internet connection, you can join the first global hackathon side track dedicated to ZK Compression! The only requirement is that teams must incorporate ZK Compression into their project in some way. Take a look at our [list of ideas](https://github.com/Lightprotocol/zk-compression-summer-hackathon/blob/main/ideas.md) for inspiration.
+
+
+### Get Started Building
 
 * [ZK Compression documentation](https://www.zkcompression.com/)
 * [Example token-escrow program](https://github.com/Lightprotocol/light-protocol/tree/main/examples/token-escrow/programs/token-escrow/src/escrow_with_pda)
@@ -28,7 +35,7 @@ Teams and individuals are evaluated on the following criteria:
 
 After the judges complete individual evaluations, they will discuss and choose the winners based on the project's weighted scores.
 
-### Side track Prizes
+### Side Track Prizes
 
 | Place                                           | Prize                                 |
 |-------------------------------------------------|---------------------------------------|
