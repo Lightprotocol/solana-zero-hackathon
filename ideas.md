@@ -19,7 +19,7 @@ We have compiled a list of interesting ideas to explore during the Radar hackath
 
 -   Bidirectional SPL Token 'Compressor': A simple interface to compress and decompress your SPL tokens and reclaim your token rent.
 
--   Visualizers: Portfolio charts for Compressed Tokens
+-   Visualizers: Portfolio charts for Compressed Tokens.
 
 -   Wallet UI: A web wallet or browser extension for Compressed Tokens.
 
@@ -40,16 +40,16 @@ We have compiled a list of interesting ideas to explore during the Radar hackath
 
 ## Gaming / NFT's
 
--   On-chain text-based games using compressed PDAs to store state
-
--   On-chain PvP game with hidden information using zkSNARKs.
+-   On-chain text-based games using compressed PDAs to store state.
 
 -   An NFT program using compressed accounts.
 
 -   A bidirectional NFT compressor compatible with existing layouts to reclaim rent.
 
--   NFT: Text-based games to generate unique NFT's en masse using ZK Compression.
+-   NFT: Text-based games to generate unique NFTs én masse using ZK Compression.
 
--   NFT generator: Allow creators to easily issue NFTs en masse to their community using ZK Compression.
+-   NFT generator: Allow creators to easily issue NFTs én masse to their community using ZK Compression.
+
+-   On-chain PvP game with hidden information using zkSNARKs.
 
 -   On-chain advertisements using Compressed Accounts.
