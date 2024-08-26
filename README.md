@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/96adbc14-1340-42f6-bbf9-59f1d9603433)
+
 # ZK Compression Summer 
 
 **ZK Compression Summer** is a dedicated side track for the [Solana Radar Hackathon](https://www.colosseum.org/radar).
