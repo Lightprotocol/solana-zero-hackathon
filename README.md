@@ -4,7 +4,7 @@
 
 * Hackathon dates: September 2nd through October 8.
 * Type: Online and global
-* More details: [Official website](https://www.zkcompression.com/introduction/event).
+* More details: [Side track website](https://www.zkcompression.com/introduction/event).
 * Project registration form: Register [here](https://forms.gle/2H8m4Uzv4syY8U3X8).
 
 
