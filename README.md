@@ -33,7 +33,7 @@ Teams and individuals are evaluated on the following criteria:
 * Potential impact
 * Novelty
 * Design
-* Extensibility
+* Go-to-market strategy
 
 After the judges complete individual evaluations, they will discuss and choose the winners based on the project's weighted scores.
 
