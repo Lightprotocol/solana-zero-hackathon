@@ -1,6 +1,6 @@
 # Hackathon Ideas 
 
-We have compiled a list of interesting ideas to explore during the Radar hackathon x ZK Compression Summer side track. We encourage you to pursue any idea that interests you. The list below can serve as inspiration.
+We have compiled a list of interesting ideas to explore during the Solana Zero Hackathon. We encourage you to pursue any idea that interests you. The list below can serve as inspiration.
 
 
 ## Explorers/Visualizers
@@ -19,11 +19,15 @@ We have compiled a list of interesting ideas to explore during the Radar hackath
 
 -   Wallet UI: A web wallet or browser extension for Compressed Tokens.
 
+-   Spam filter API: A tool that lets users view their assets based on how many lamports are attached to each asset.
+
 -   Compressed Name Service
 
 -   A program that can accept any compressed asset transfer to a compressed name service.
 
 -   Ports of the existing ZK Compression SDKs in other languages.
+
+-   Fraud proofs SDK: a toolkit for implementing fraud proofs on top of ZK Compression.
 
 ## DeFi
 
@@ -37,6 +41,7 @@ We have compiled a list of interesting ideas to explore during the Radar hackath
   
 -   zk-Oracles: an oracle that proves TLS signatures inside a zkSNARK.
 
+-   Off-chain matching engine for trades that settle verifiably on-chain, using compression for state merklelization.
 
 ## Gaming/Social
 
