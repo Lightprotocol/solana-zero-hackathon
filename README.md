@@ -1,5 +1,6 @@
 
-![solanazero-banner Large](https://github.com/user-attachments/assets/d386d96d-7203-4824-81a0-61403ad22b5e)
+![solanazero-banner Large 2](https://github.com/user-attachments/assets/d4e5c1b7-3e1c-4abb-b660-cd96446a3c8c)
+
 
 # Solana Zero Hackathon
 
