@@ -43,9 +43,9 @@ After the judges complete individual evaluations, they will discuss and choose t
 
 | Place                                           | Prize                                 |
 |-------------------------------------------------|---------------------------------------|
-| First Place                                     | up to $25k + Swag |
-| Second Place                                    | $10k + Swag    |
-| Third Place                                     | $5k + Swag     |
+| First Place                                     | 1 winner up to $20k + Swag |
+| Second Place                                    | 1 team of $10k + Swag    |
+| Third Place                                     | 2 teams of $5k each + Swag     |
 | All participants that submit a project that fulfills the eligibility criteria        | $100                 |
 
 
