@@ -29,19 +29,19 @@ We have compiled a list of interesting ideas to explore during the Solana Zero H
 
 -   Fraud proofs SDK: a toolkit for implementing fraud proofs on top of ZK Compression.
 
+-   zk-Oracles: an oracle that proves TLS signatures inside a SNARK and uses compressed PDAs to store data.
+
 ## DeFi
+
+-   Compressed Token Swap: A tool to easily trade compressed tokens, e.g., by decompressing, swapping, and compressing atomically.
 
 -   Build-your-own Liquidity Mining platform using compressed tokens or compressed PDAs.
 
 -   Payments: A payments application for compressed token transfers on Solana.
-
--   Compressed Token Swap: A tool to easily trade compressed tokens, e.g., by decompressing, swapping, and compressing atomically.
   
 -   Trust-minimized cross-chain token bridge or swap using compression to sync Merkle roots.
-  
--   zk-Oracles: an oracle that proves TLS signatures inside a zkSNARK.
 
--   Off-chain matching engine for trades that settle verifiably on-chain, using compression for state merklelization.
+-   Off-chain matching engine for trades that settle verifiably on-chain, using ZK Compression for state merklelization.
 
 ## Gaming/Social
 
